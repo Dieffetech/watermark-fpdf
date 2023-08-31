@@ -1,0 +1,21 @@
+{
+  "name": "dieffetech/watermark-fpdf",
+  "description": "Library for apply watermark on pdf using setasign/fpdi",
+  "type": "library",
+  "require": {
+    "setasign/fpdi": "^2.3",
+    "setasign/fpdf": "^1.8"
+  },
+  "license": "MIT",
+  "autoload": {
+    "psr-4": {
+      "Dieffetech\\WatermarkFpdf\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "Dieffetech",
+      "email": "devel@dieffe.tech"
+    }
+  ]
+}
