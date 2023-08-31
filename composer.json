@@ -4,8 +4,8 @@
   "description": "Library for apply watermark on pdf using setasign/fpdi",
   "type": "library",
   "require": {
-    "setasign/fpdi": "^2.3",
-    "setasign/fpdf": "^1.8"
+    "setasign/fpdi": "^2.4.1",
+    "setasign/fpdf": "^1.8.6"
   },
   "license": "MIT",
   "autoload": {
