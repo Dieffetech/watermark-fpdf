@@ -1,5 +1,6 @@
 {
   "name": "dieffetech/watermark-fpdf",
+  "version": "1.0.0",
   "description": "Library for apply watermark on pdf using setasign/fpdi",
   "type": "library",
   "require": {

@@ -1,7 +1,7 @@
 # Watermark-FPDF
 
 ```php
-    composer require Dieffetech/watermark-fpdf
+    composer require dieffetech/watermark-fpdf
 ```
 
 Permette di creare facilmente un watermark in un file PDF.
